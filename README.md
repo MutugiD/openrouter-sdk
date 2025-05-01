@@ -120,7 +120,7 @@ docker run --rm openrouter-sdk-test
 docker build -f Dockerfile.dev -t openrouter-sdk-dev .
 ```
 
-## Contributing
+## Making contributions
 
 1. Fork the repository.
 2. Create a feature branch: `git checkout -b feature/your-feature`
